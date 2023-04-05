@@ -181,7 +181,7 @@
         "name":   "Hidizs",
         "phones": [
 		{"name":"Hidizs MM2", "file":["Hidizs MM2 Balance", "Hidizs MM2 Bass", "Hidizs MM2 Treble", "Hidizs MM2 Treble Olina"], "suffix":["Balance", "Bass", "Treble", "Treble Olina"]},
-		{"name":"MS5", "file":["Hidizs MS5 Balanced","Hidizs MS5 Treble","Hidizs MS5 Bass"],"suffix":["Balance", "Treble", "Bass"]}		
+		{"name":"MS5", "file":["Hidizs MS5 Balanced","Hidizs MS5 Treble","Hidizs MS5 Bass","Hidizs MS5 Treble 18ohm","Hidizs MS5 Balanced 18ohm"],"suffix":["Balance", "Treble", "Bass","Treble 18ohm","Balanced 18ohm"]}		
         ]
     },	
     {
