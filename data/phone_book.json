@@ -9,6 +9,7 @@
     {
         "name":   "7Hz",
         "phones": [
+		{"name":"Legato", "file":"7hz Legato"},		
 		{"name":"Salnotes Dioko", "file":["7Hz Salnotes Dioko","7Hz Salnotes Dioko TapedVent"],"suffix":["Stock","Tape on Front Vent"] },		
 		{"name":"Timeless", "file":"7Hz Timeless"},
 		{"name":"Timeless S2","file":["7Hz Timeless S2", "7Hz Timeless S2 25ohm", "7Hz Timeless S2 75ohm","7Hz Timeless S2 MPFront","7Hz Timeless S2 MPBack"], "suffix":["Stock","25ohm","75ohm","Micropore on Front","Micropore on Back"]},
@@ -73,7 +74,8 @@
 			{"name":"BL-Max","file":"BLON BL-Max"},	
 			{"name":"Fat Girl","file":"BLON Fat Girl"},				
 			{"name":"Mini","file":"BLON Miniv2"},
-			{"name":"Z200","file":"BLON Z200"}			
+			{"name":"Z200","file":"BLON Z200"},
+			{"name":"X HBB Z300","file":["BLON X HBB Z300","BLON X HBB Z300 MP"], "suffix":["Stock","MP"]}				
         ]
     },
     {
@@ -181,7 +183,7 @@
         "name":   "Hidizs",
         "phones": [
 		{"name":"Hidizs MM2", "file":["Hidizs MM2 Balance", "Hidizs MM2 Bass", "Hidizs MM2 Treble", "Hidizs MM2 Treble Olina"], "suffix":["Balance", "Bass", "Treble", "Treble Olina"]},
-		{"name":"MS5", "file":["Hidizs MS5 Balanced","Hidizs MS5 Treble","Hidizs MS5 Bass","Hidizs MS5 Treble 18ohm","Hidizs MS5 Balanced 18ohm"],"suffix":["Balance", "Treble", "Bass","Treble 18ohm","Balanced 18ohm"]}		
+		{"name":"MS5", "file":["Hidizs MS5 Balanced","Hidizs MS5 Treble","Hidizs MS5 Bass","Hidizs MS5 Treble 18ohm","Hidizs MS5 Balanced 18ohm","Hidizs MS5 Treble TK2"],"suffix":["Balance", "Treble", "Bass","Treble 18ohm","Balanced 18ohm","Treble TK2"]}		
         ]
     },	
     {
@@ -200,6 +202,7 @@
     {
         "name":   "IKKO",
         "phones": [
+		{"name":"OH10", "file":"Ikko OH10"},		
 		{"name":"OH2", "file":"IKKO OH2"}
         ]
     },	
@@ -239,6 +242,7 @@
 			{"name":"AS16 Pro","file":["KZ AS16 Pro","KZ AS16 Pro TK2","KZ AS16 Pro BTX"], "suffix":["Stock","TK2","BTX"]},			
 			{"name":"AST","file":["KZ AST Stock", "KZ AST Tanya","KZ AST 25ohm"], "suffix":["Stock","Tanya","25ohm"]},	
 			{"name":"ASX","file":["KZ ASXv2","KZ ASX 25ohm"],"suffix":["Stock","25ohm"]},
+			{"name":"D-FI","file":["KZ D-Fi","KZ D-Fi DDDU","KZ D-Fi MP","KZ D-Fi UUUD DP"],"suffix":["UUUD","KZ D-Fi DDDU","UUUD+MP","UUUD+DP"]},				
 			{"name":"DQ6","file":"KZ DQ6v2"},	
 			{"name":"DQS","file":"KZ DQS"},			
 			{"name":"KZ X HBB DQ6S Foam","file":"KZ DQ6Sv2"},		
@@ -253,7 +257,8 @@
 			{"name":"ESX","file":"KZ ESX"},		
 			{"name":"Ling Long","file":"KZ Linlong"},				
 			{"name":"PR1 Hifi","file":["KZ PL1 Hifi","KZ PL1 Hifi MedFoam"],"suffix":["Stock", "5x5 Med Foam"]},			
-			{"name":"PR1 Pro Foam Tips","file":"KZ PR1 Pro"},			
+			{"name":"PR1 Pro Foam Tips","file":"KZ PR1 Pro"},	
+			{"name":"x HBB PR2","file":["KZ x HBB PR2","KZ x HBB PR2 MP"],"suffix":["Stock", "MP"]},			
 			{"name":"S1 TWS","file":"KZ S1"},				
 			{"name":"S1D TWS","file":"KZ S1D"},	
 			{"name":"SA08 TWS","file":"KZ SA08"},	
@@ -421,8 +426,10 @@
             {"name":"Autumn","file":"Shortbus Autumn"},	
             {"name":"C2","file":"Shortbus C2"},				
             {"name":"EJ07SB","file":"Shortbus EJ07SB"},
-            {"name":"Eru","file":"Shortbus Eru"},			
+            {"name":"Eru","file":"Shortbus Eru"},	
+            {"name":"Glamdring","file":"Shortbus Glamdring"},			
             {"name":"Olina","file":"Shortbus Olina"},
+            {"name":"Plan B","file":"Shortbus Plan B"},			
             {"name":"Prometheus","file":"Shortbus Prometheus"},			
             {"name":"Unknown Soldier","file":"Shortbus UnknownSoldier"}				
         ]
@@ -430,7 +437,8 @@
     {
         "name":   "Simgot",
         "phones": [		
-			{"name":"EA500","file":["Simgot EA500 Red","Simgot EA500 Black","Simgot EA500 Boom","Simgot EA500 Olina","Simgot EA500 Red Bandaid"],"suffix":["RED","Black","Boom","RED Y1","RED Bandaid"]},		
+			{"name":"EA500","file":["Simgot EA500 Red","Simgot EA500 Black","Simgot EA500 Boom","Simgot EA500 Olina","Simgot EA500 Red Bandaid"],"suffix":["RED","Black","Boom","RED Y1","RED Bandaid"]},	
+			{"name":"EW100P","file":"SIMGOT EW100P"},					
 			{"name":"EM2 Roltion","file":"Simgot EM2R"}		
         ]
     },	
