@@ -9,7 +9,7 @@ const init_phones = ["Harman IE 2019v2 Target"],// Optional. Which graphs to dis
       alt_layout = true,                            // Toggle between classic and alt layouts
       alt_sticky_graph = true,                      // If active graphs overflows the viewport, does the graph scroll with the page or stick to the viewport?
       alt_animated = true,                          // Determines if new graphs are drawn with a 1-second animation, or appear instantly
-      alt_header = true,                            // Display a configurable header at the top of the alt layout
+      alt_header = false,                            // Display a configurable header at the top of the alt layout
       alt_tutorial = true,                          // Display a configurable frequency response guide below the graph
       site_url = '/',                               // URL of your graph "homepage"
       share_url = true,                             // If true, enables shareable URLs
@@ -36,7 +36,7 @@ const init_phones = ["Harman IE 2019v2 Target"],// Optional. Which graphs to dis
 
 // Specify which targets to display
 const targets = [
-    { type:"Reference",  files:["Haruto 2024","Haruto 2021"] },
+    { type:"Reference",  files:["Harman IE 2019v2"] },
     { type:"Neutral",    files:["KEMAR DF","IEF Neutral 2023","Etymotic"] },
     { type:"Reviewer",   files:["Antdroid","Banbeucmas","HBB","PaulWasabii","Precogvision","Super Review 22","Timmy","VSG"] },
     { type:"Preference", files:["Harman IE 2019v2","Harman IE 2017v2","AutoEQ","Rtings","Sonarworks"] }
