@@ -13,11 +13,11 @@ const init_phones = ["Harman IE 2019v2 Target"],// Optional. Which graphs to dis
       alt_tutorial = true,                          // Display a configurable frequency response guide below the graph
       site_url = '/',                               // URL of your graph "homepage"
       share_url = true,                             // If true, enables shareable URLs
-      watermark_text = "PaulWasabii",              // Optional. Watermark appears behind graphs
+      watermark_text = "",              // Optional. Watermark appears behind graphs
       watermark_image_url = "assets/images/pw.svg", // Optional. If image file is in same directory as config, can be just the filename
       page_title = "PaulWasabii",                  // Optional. Appended to the page title if share URLs are enabled
       page_description = "View and compare frequency response graphs for earphones",
-      accessories = true,                           // If true, displays specified HTML at the bottom of the page. Configure further below
+      accessories = false,                           // If true, displays specified HTML at the bottom of the page. Configure further below
       externalLinksBar = true,                      // If true, displays row of pill-shaped links at the bottom of the page. Configure further below
       expandable = false,                           // Enables button to expand iframe over the top of the parent page
       expandableOnly = false,                       // Prevents iframe interactions unless the user has expanded it. Accepts "true" or "false" OR a pixel value; if pixel value, that is used as the maximum width at which expandableOnly is used
@@ -55,7 +55,7 @@ const  preference_bounds_name = "Preference Bounds RAW", // Preference bounds na
        default_treble = 0,                          // Default Custom DF treble gain value
        tiltableTargets = ["KEMAR DF"],              // Targets that are allowed to be tilted
        compTargets = ["KEMAR DF"],                  // Targets that are allowed to be used for compensation
-       allowCreatorSupport = true;                  // Allow the creator to have a button top right to support them
+       allowCreatorSupport = false;                  // Allow the creator to have a button top right to support them
 
 // *************************************************************
 // Functions to support config options set above; probably don't need to change these
@@ -85,7 +85,7 @@ function watermark(svg) {
         .attr("opacity",0.2)
         .append("text")
         .attrs({x:765, y:314, "font-size":10, "text-anchor":"end", "class":"site_name"})
-        .text("graphtool.harutohiroki.com");
+        .text("paulwasabii.github.io/");
 }
 
 
