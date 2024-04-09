@@ -1,5 +1,5 @@
 // Configuration options
-const init_phones = ["PaulWasabii Target"],// Optional. Which graphs to display on initial load. Note: Share URLs will override this set
+const init_phones = ["PaulWasabii"],// Optional. Which graphs to display on initial load. Note: Share URLs will override this set
       DIR = "data/",                                // Directory where graph files are stored
       default_channels = ["L","R"],                 // Which channels to display. Avoid javascript errors if loading just one channel per phone
       default_normalization = "dB",                 // Sets default graph normalization mode. Accepts "dB" or "Hz"
@@ -38,7 +38,7 @@ const init_phones = ["PaulWasabii Target"],// Optional. Which graphs to display 
 const targets = [
     { type:"Reference",  files:["Haruto 2024","Haruto 2021"] },
     { type:"Neutral",    files:["KEMAR DF","IEF Neutral 2023","Etymotic"] },
-    { type:"Reviewer",   files:["Antdroid","Banbeucmas","HBB","PaulWasabii Target","Precogvision","Super Review 22","Timmy","VSG"] },
+    { type:"Reviewer",   files:["Antdroid","Banbeucmas","HBB","PaulWasabii","Precogvision","Super Review 22","Timmy","VSG"] },
     { type:"Preference", files:["Harman IE 2019v2","Harman IE 2017v2","AutoEQ","Rtings","Sonarworks"] }
 ];
 
