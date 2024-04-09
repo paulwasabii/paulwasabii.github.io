@@ -1,0 +1,647 @@
+
+[
+    {
+        "name":   "64 Audio",
+        "phones": [
+		{"name":"64 Audio Tia Trio", "file":"64Audio Trio"}
+        ]
+    },
+    {
+        "name":   "7Hz",
+        "phones": [
+		{"name":"Legato", "file":"7hz Legato"},		
+		{"name":"Salnotes Dioko", "file":["7Hz Salnotes Dioko","7Hz Salnotes Dioko TapedVent"],"suffix":["Stock","Tape on Front Vent"] },		
+		{"name":"Timeless", "file":"7Hz Timeless"},
+		{"name":"Timeless S2","file":["7Hz Timeless S2", "7Hz Timeless S2 25ohm", "7Hz Timeless S2 75ohm","7Hz Timeless S2 MPFront","7Hz Timeless S2 MPBack"], "suffix":["Stock","25ohm","75ohm","Micropore on Front","Micropore on Back"]},
+		{"name":"Salnotes Zero", "file":["7Hz Salnotes Zero","7Hz Salnotes Zero Tape","7Hz Salnotes Zero v2","7Hz Salnotes Zero NoGrill"],"suffix":["stock","clear tape on vent","re-set","No Grill"]}	
+        ]
+    },
+    {
+        "name":   "Akros",
+        "phones": [
+		{"name":"Erasmus", "file":["Akros Erasmus","Akros Erasmus 11"],"suffix":["00","11"]}
+        ]
+    },		
+    {
+        "name":   "Astrotec",
+        "phones": [
+		{"name":"Vesna", "file":"Astrotec Vesna"}
+        ]
+    },	 
+ {
+        "name":   "Audio",
+        "phones": [
+		{"name":"Ehiku", "file":"Audio Ehiku"},
+		{"name":"Hekili", "file":"Audio Hekili"},	
+		{"name":"Lokahi", "file":"Audio Lokahi 7BAv2"}		
+        ]
+    },	
+    {
+        "name":   "AudioSense",
+        "phones": [
+		{"name":"T100", "file":"Audiosense T100"}
+        ]
+    },	
+    {
+        "name":   "AXS Audio",
+        "phones": [
+		{"name":"Pro Earbuds TWS", "file":"AXS Audio Pro Earbuds"}
+        ]
+    },	
+    {
+        "name":   "BASN",
+        "phones": [
+		{"name":"BMaster 2nd", "file":"BASN BMaster 2nd"}
+        ]
+    },	
+    {
+        "name":   "BGVP",
+        "phones": [
+		{"name":"DM6", "file":"BGVP DM6"},
+		{"name":"Melody","file":["BGVP Melody Balanced", "BGVP Melody Hifi", "BGVP Melody Pop"], "suffix":["Balanced","Hifi","Pop"]},
+		{"name":"Scale Pro", "file":"BGVP Scale Pro"}	
+        ]
+    },	
+    {
+        "name":   "BLON",
+        "phones": [
+			{"name":"BL01","file":"BLON BL01v2"},	
+			{"name":"BL03","file":["BLON BL03v2 Stock", "BLON BL03 Filter"], "suffix":["Stock","Filter"]},
+			{"name":"BL05","file":"BLON BL05v2"},			
+			{"name":"BL05S","file":"BLON BL05Sv2"},
+			{"name":"BL07","file":"BLON BL07"},			
+			{"name":"BLA8","file":"BLON BL-A8v2"},
+			{"name":"BL-Max","file":"BLON BL-Max"},	
+			{"name":"Fat Girl","file":"BLON Fat Girl"},				
+			{"name":"Mini","file":"BLON Miniv2"},
+			{"name":"Z200","file":"BLON Z200"},
+			{"name":"X HBB Z300","file":["BLON X HBB Z300","BLON X HBB Z300 MP"], "suffix":["Stock","MP"]}				
+        ]
+    },
+    {
+        "name":   "BQEYZ",
+        "phones": [
+		{"name":"KB1", "file":"BQEYZ KB1"},
+		{"name":"Summer", "file":"BQEYZ Summer"},
+		{"name":"Topaz", "file":"BQEYZ Topaz"},
+		{"name":"Winter","file":["BQEYZ Winter", "BQEYZ Winter Y1","BQEYZ Winter MoreBass"], "suffix":["Stock","Y1","MoreBass"]}		
+        ]
+    },	
+    {
+        "name":   "CCA",
+        "phones": [
+		{"name":"C10 Pro", "file":"CCA C10Pro"},
+		{"name":"CA10", "file":"CCA CA10"},		
+		{"name":"CA16", "file":"CCA CA16v2"},
+		{"name":"CA16 Pro", "file":"CCA CA16 Pro"},		
+		{"name":"CA2", "file":"CCA CA2v2"},	
+		{"name":"CRA", "file":"CCA CRA"},		
+		{"name":"CRA+", "file":["CCA CRA Plus", "CCA CRA Plus Tape", "CCA CRA Plus Vent"], "suffix":["Stock", "TapeOnVent", "Added Vent"]},			
+		{"name":"CS16", "file":"CCA CS16"},		
+		{"name":"CSN", "file":"CCA CSNv2"},
+		{"name":"CST", "file":"CCA CST"},
+		{"name":"CX10 TWS", "file":"CCA CX10"},		
+		{"name":"CX4 TWS", "file":"CCA CX4"},
+		{"name":"CXS", "file":"CCA CXS"},
+		{"name":"HM20", "file":"CCA HM20"},		
+		{"name":"Lyra", "file":["CCA Lyra","CCA Lyra Y2","CCA Lyra Y1"],"suffix":["Stock","3mm Y2 on Mesh","3mm Y1 on Mesh"]},		
+		{"name":"NRA", "file":["CCA NRA Stock", "CCA NRA Taped"], "suffix":["Stock", "Taped"]},
+		{"name":"PLA13", "file":"CCA PLA13"}
+        ]
+    },	
+    {
+        "name":   "CCZ",
+        "phones": [
+		{"name":"Coffee Bean", "file":"CCZ Coffee Beanv2"},
+		{"name":"Melody", "file":"CCZ Melody"},		
+		{"name":"Plume", "file":"CCZ Plume"},
+		{"name":"Warrior", "file":"CCZ Warrior"}			
+        ]
+    },		
+    {
+        "name":   "CVJ",
+        "phones": [
+		{"name":"CSA", "file":"CVJ CSA"},
+		{"name":"CSK", "file":"CVJ CSK"}		
+        ]
+    },	
+    {
+        "name":   "DUNU",
+        "phones": [
+		{"name":"EST112", "file":"DUNU EST112"},			
+		{"name":"SA6", "file":"DUNU SA6"},		
+		{"name":"Talos", "file":"DUNU Talos"},
+		{"name":"Titan S", "file":"DUNU Titan"},
+		{"name":"Titan S Tanya", "file":"DUNU Titan Tanya"}		
+        ]
+    },	
+    {
+        "name":   "Etymotic",
+        "phones": [
+		{"name":"ER4XR Foam", "file":"Etymotic ER4XR Foam"}
+        ]
+    },	
+    {
+        "name":   "Fearless",
+        "phones": [
+		{"name":"Roland", "file":"Fearless Roland"}
+        ]
+    },	
+    {
+        "name":   "Fengru",
+        "phones": [
+		{"name":"PT1", "file":"Fengru PT1"},		
+		{"name":"QZX-A1", "file":"Fengru QZX-A1"}
+        ]
+    },	
+    {
+        "name":   "Final Audio",
+        "phones": [
+		{"name":"Final E500", "file":["Final E500", "Final E500 AutoEQ"], "suffix":["Stock", "AutoEQ"]}
+        ]
+    },	
+    {
+        "name":   "G.K",
+        "phones": [
+		{"name":"GS10", "file":"GK GS10"},
+		{"name":"GST", "file":"GK GST"}		
+        ]
+    },		
+    {
+        "name":   "Geekwold",
+        "phones": [
+		{"name":"GK10", "file":"Geekwold GK10"}
+        ]
+    },	
+    {
+        "name":   "HarmonicDyne",
+        "phones": [
+		{"name":"Devil", "file":["HarmonicDyne Devil", "HarmonicDyne Devil Micropore"], "suffix":["Stock", "Micropore on Vent"]}
+        ]
+    },		
+    {
+        "name":   "Hidizs",
+        "phones": [
+		{"name":"Hidizs MM2", "file":["Hidizs MM2 Balance", "Hidizs MM2 Bass", "Hidizs MM2 Treble", "Hidizs MM2 Treble Olina"], "suffix":["Balance", "Bass", "Treble", "Treble Olina"]},
+		{"name":"MS5", "file":["Hidizs MS5 Balanced","Hidizs MS5 Treble","Hidizs MS5 Bass","Hidizs MS5 Treble 18ohm","Hidizs MS5 Balanced 18ohm","Hidizs MS5 Treble TK2"],"suffix":["Balance", "Treble", "Bass","Treble 18ohm","Balanced 18ohm","Treble TK2"]}		
+        ]
+    },	
+    {
+        "name":   "HiFri",
+        "phones": [
+		{"name":"1+3", "file":"HiFri Hybrid"}
+        ]
+    },	
+    {
+        "name":   "HZSOUND",
+        "phones": [
+		{"name":"HeartMirror Pro", "file":"HZSOUND HMPro"},		
+		{"name":"Waist Drum", "file":"HZSOUND Waist Drum"}
+        ]
+    },	
+    {
+        "name":   "IKKO",
+        "phones": [
+		{"name":"OH10", "file":"Ikko OH10"},		
+		{"name":"OH2", "file":"IKKO OH2"}
+        ]
+    },	
+    {
+        "name":   "Joyodio",
+        "phones": [
+			{"name":"Shine My Tips","file":["Shine Standard", "Shine Hifi","Shine RandB", "Shine Classical","Shine Pop"], "suffix":["Standard","Hifi","R&B","Classical","Pop"]},
+			{"name":"Shine White Tips","file":["Shine Standard W", "Shine Hifi W","Shine RandB W", "Shine Classical W","Shine Pop W","Shine Standard 1000","Shine Standard WMP","Shine Standard 1000MP"], "suffix":["Standard","Hifi","R&B","Classical","Pop","1000","Pauls","Pauls2"]}			
+        ]
+    },		
+    {
+        "name":   "KBEAR",
+        "phones": [
+			{"name":"Aurora","file":"KBEAR Aurora"},		
+			{"name":"Believe","file":["KBEAR Believev2", "KBEAR Believe Vent"], "suffix":["Stock","MP on Vent"]},				
+			{"name":"Diamond","file":"KBEAR Diamondv2"},		
+			{"name":"Dumpling","file":"KBEAR Dumpling"},				
+			{"name":"F1","file":"KBEAR F1"},
+			{"name":"Ink","file":"KBEAR Ink"},			
+			{"name":"KB04","file":"KBEAR KB04v2"},			
+			{"name":"KB06","file":"KBEAR KB06"},
+			{"name":"KS1","file":"KBEAR KS1v2"},			
+			{"name":"KS2","file":"KBEAR KS2v2"},			
+			{"name":"Lark4K","file":"KBEAR Lark4kv2"},
+			{"name":"Little Q","file":"KBEAR LittleQ"},			
+			{"name":"Neon","file":"KBEAR Neon"},			
+			{"name":"OS1Pro","file":"KBEAR OS1 Pro"},
+			{"name":"Robin","file":"KBEAR Robin"},		
+			{"name":"Rosefinch","file":"KBEAR Rosefinch"},				
+			{"name":"ST1","file":"KBEAR ST1"}			
+        ]
+    },
+    {
+        "name":   "KZ",
+        "phones": [
+			{"name":"ASF","file":"KZ ASFv2"},
+			{"name":"AS16 Pro","file":["KZ AS16 Pro","KZ AS16 Pro TK2","KZ AS16 Pro BTX"], "suffix":["Stock","TK2","BTX"]},			
+			{"name":"AST","file":["KZ AST Stock", "KZ AST Tanya","KZ AST 25ohm"], "suffix":["Stock","Tanya","25ohm"]},	
+			{"name":"ASX","file":["KZ ASXv2","KZ ASX 25ohm"],"suffix":["Stock","25ohm"]},
+			{"name":"D-FI","file":["KZ D-Fi","KZ D-Fi DDDU","KZ D-Fi MP","KZ D-Fi UUUD DP"],"suffix":["UUUD","KZ D-Fi DDDU","UUUD+MP","UUUD+DP"]},				
+			{"name":"DQ6","file":"KZ DQ6v2"},	
+			{"name":"DQS","file":"KZ DQS"},			
+			{"name":"KZ X HBB DQ6S Foam","file":"KZ DQ6Sv2"},		
+			{"name":"KZ X HBB DQ6S Silicone","file":"KZ DQ6Sv3"},	
+			{"name":"EDA", "file":["KZ EDA Bass", "KZ EDA Balanced", "KZ EDA HiRes", "KZ EDA Balanced 300"], "suffix":["Bass", "Balanced", "Hires", "Balanced Tanya filter"]},				
+			{"name":"EDC","file":"KZ EDC"},	
+			{"name":"EDS", "file":["KZ EDS", "KZ EDS BTX", "KZ EDS BTX HIFI"], "suffix":["Stock", "BTX", "BTX HIFI"]},					
+			{"name":"EDX","file":"KZ EDXv2"},	
+			{"name":"EDX Pro","file":"KZ EDX Pro"},			
+			{"name":"EDX Ultra","file":"KZ EDX Ultra"},				
+			{"name":"ES4","file":"KZ ES4"},	
+			{"name":"ESX","file":"KZ ESX"},		
+			{"name":"Ling Long","file":"KZ Linlong"},				
+			{"name":"PR1 Hifi","file":["KZ PL1 Hifi","KZ PL1 Hifi MedFoam"],"suffix":["Stock", "5x5 Med Foam"]},			
+			{"name":"PR1 Pro Foam Tips","file":"KZ PR1 Pro"},	
+			{"name":"PR2 PW","file":"KZ x HBB PR2"},
+			{"name":"PR2 TDM","file":"TDM KZ HBB PR2"},
+			{"name":"PR2 Ian","file":"Ian KZ X HBB PR2"},
+			{"name":"PR2 Hobby","file":"Hobby KZ PR2"},		
+			{"name":"PR2 HBB","file":"HBB KZ X HBB PR2"},	
+			{"name":"PR2 Harpo","file":"Harpo KZ PR2"},		
+			{"name":"PR2 Fahryst","file":"Fahryst KZ X HBB PR2"},			
+			{"name":"PR2 DCInside","file":"DCInside PR2 Sample 1 (by Halc6on)"},
+			{"name":"PR2 ARN","file":"ARN KZ PR2"},	
+			{"name":"PR2 Aftersound","file":"Aftersound KZ PR2"},			
+			{"name":"x HBB PR2","file":["KZ x HBB PR2","KZ x HBB PR2 MP"],"suffix":["Stock", "MP"]},			
+			{"name":"S1 TWS","file":"KZ S1"},				
+			{"name":"S1D TWS","file":"KZ S1D"},	
+			{"name":"SA08 TWS","file":"KZ SA08"},	
+			{"name":"SK10 TWS","file":"KZ SK10"},		
+			{"name":"VX10","file":["KZ VX10 Stock", "KZ VX10 Tanya"], "suffix":["Stock","Tanya"]},
+			{"name":"VXS TWS","file":"KZ VXS"},			
+			{"name":"Z1 TWS","file":"KZ Z1"},		
+			{"name":"Z3 TWS","file":"KZ Z3"},				
+			{"name":"ZAX","file":"KZ ZAXv2"},	
+			{"name":"ZEX", "file":["KZ ZEX Stock", "KZ ZEX Taped"], "suffix":["Stock", "Taped"]},			
+			{"name":"x crinacle CRN (ZEX Pro)","file":"KZ ZEX Pro"},		
+			{"name":"ZEX Pro Taped","file":"KZ ZEX Pro Taped"},	
+			{"name":"ZAR","file":"KZ ZAR"},				
+			{"name":"ZAS","file":"KZ ZAS"},		
+			{"name":"ZES","file":"KZ ZES"},		
+			{"name":"ZNA","file":"KZ ZNA"},				
+			{"name":"ZS10 Pro","file":"KZ ZS10 Prov2"},				
+			{"name":"ZSN","file":"KZ ZSNv2"},	
+			{"name":"ZSN Pro","file":"KZ ZSN Prov2"},		
+			{"name":"ZSN Pro X","file":"KZ ZSN Pro Xv2"},				
+			{"name":"ZSR","file":"KZ ZSR"},		
+			{"name":"ZST Purple","file":"KZ ZSTv2"},
+			{"name":"ZSTX","file":"KZ ZSTXv2"},		
+			{"name":"ZSX","file":"KZ ZSXv2"},
+			{"name":"ZVX","file":["KZ ZVX","KZ ZVX 25ohm","KZ ZVX IEMatch"], "suffix":["Stock", "25ohm","IEMatch"]}				
+        ]
+    },	
+    {
+        "name":   "KiiBOOM",
+        "phones": [	
+			{"name":"Allure","file":"KiiBOOM Allure"},				
+			{"name":"Evoke","file":"Kiiboom Evoke"}			
+        ]
+    },		
+    {
+        "name":   "Kinera",
+        "phones": [
+			{"name":"BD005 Pro","file":"Kinera BD005Pro"},
+			{"name":"Celest Gumiho","file":["Kinera Celest Gumiho","Kinera Celest Gumiho 36ohm"], "suffix":["Stock", "36ohm imp"]},			
+			{"name":"Nanna 2.0","file":"Kinera Nanna 2"}			
+        ]
+    },	
+    {
+        "name":   "Kiwi Ears",
+        "phones": [					
+			{"name":"Cadenza","file":"Kiwiears Cadenza"},
+			{"name":"Orchestra Lite","file":"Kiwi Ears Orchestra Lite"}			
+        ]
+    },	
+    {
+        "name":   "LetShuoer",
+        "phones": [
+			{"name":"D13","file":["LetShuoer D13 Gold", "LetShuoer D13 Silver"], "suffix":["Gold","Silver"]},			
+			{"name":"EJ07M","file":["Shuoer EJ07M Stock", "Shuoer EJ07M Filtered"], "suffix":["Stock","Filter"]},		
+            {"name":"EJ07M Resin","file":"LetShuoer EJ07m Resin"},	
+			{"name":"OGK","file":"Shuoer OGK"},		
+            {"name":"S12","file":"Shuoer S12"},				
+            {"name":"Tape Pro","file":"Shuoer Tape Pro"}				
+        ]
+    },	
+    {
+        "name":   "MEMT",
+        "phones": [
+			{"name":"R1","file":"MEMT R1"}
+        ]
+    },	
+    {
+        "name":   "MiM",
+        "phones": [
+			{"name":"Dark Magician","file":["MiM Dark Magician", "MiM Dark Magician Tape"], "suffix":["Stock","Taped"]},
+			{"name":"Dark Magician V2","file":"MiM Dark Magician v2"}			
+        ]
+    },	
+    {
+        "name":   "Moondrop",
+        "phones": [
+			{"name":"A8","file":"Moondrop A8"},
+			{"name":"Aria","file":"Moondrop Aria"},			
+			{"name":"Aria Snow Edition","file":["Moondrop Aria Snow","Moondrop Aria Snow MP","Moondrop Aria Snow NoFoam","Moondrop Aria Snow NoFoam MP"],"suffix":["Stock","Micropore on Vent","Foam Removed","Foam Removed with MP"]},			
+			{"name":"Chu","file":["Moondrop Chu", "Moondrop Chu MP", "Moondrop Chu Tanya"], "suffix":["Stock","Micropore","Tanya"]},
+			{"name":"Droplet","file":"Moondrop Droplet"},			
+			{"name":"Stellaris","file":["Moondrop Stellaris","Moondrop Stellaris NoFoam"],"suffix":["Stock","Foam Removed"]}
+        ]
+    },	
+    {
+        "name":   "NF Audio",
+        "phones": [
+			{"name":"NM2","file":"NFAudio NM2"}
+        ]
+    },		
+    {
+        "name":   "NiceHCK",
+        "phones": [
+			{"name":"DB3","file":"NiceHCK DB3"}
+        ]
+    },	
+    {
+        "name":   "PAIAudio",
+        "phones": [
+			{"name":"DR2","file":"PAIAudio DR2"}
+        ]
+    },	
+    {
+        "name":   "Prisma Audio",
+        "phones": [
+			{"name":"Azul","file":"Prisma Azul"}
+        ]
+    },	
+    {
+        "name":   "QoA",
+        "phones": [
+			{"name":"Gimlet","file":"QoA Gimlet"}
+        ]
+    },		
+    {
+        "name":   "QCY",
+        "phones": [
+			{"name":"T1C TWS","file":"QCY T1C"}
+        ]
+    },	
+    {
+        "name":   "QKZ",
+        "phones": [
+			{"name":"x HBB Kahn","file":["QKZ x HBB Khan","QKZ x HBB Khan TK2"],"suffix":["ES100","TRI TK2"]}
+        ]
+    },	
+    {
+        "name":   "Raptgo",
+        "phones": [		
+			{"name":"X HBB Hook X","file":"Raptgo X HBB Hook X"}		
+        ]
+    },	
+    {
+        "name":   "Redeyes",
+        "phones": [		
+			{"name":"Not O2","file":"Redeyes Not O2"}		
+        ]
+    },		
+    {
+        "name":   "Samsung",
+        "phones": [
+            {"name":"Galaxy Buds TWS","file":"Samsung Galaxy Buds"},		
+            {"name":"Galaxy Buds Plus TWS","file":"Samsung Galaxy Buds Plus"},
+            {"name":"Galaxy Buds Pro TWS","file":"Samsung Galaxy Buds Pro"}			
+        ]
+    },	
+    {
+        "name":   "SeaaAudio",
+        "phones": [		
+			{"name":"Yume 2","file":"SeeAudio Yume 2"}		
+        ]
+    },	
+    {
+        "name":   "Senfer",
+        "phones": [
+            {"name":"DT6","file":"Senfer DT6"},
+            {"name":"DT6 Max","file":"Senfer DT6 Max"},			
+            {"name":"DT6 Pro","file":"Senfer DT6 Prov2"},
+            {"name":"KP580","file":"Senfer KP580"}			
+        ]
+    },
+    {
+        "name":   "Shortbus Audio",
+        "phones": [					
+            {"name":"Autumn","file":"Shortbus Autumn"},	
+            {"name":"C2","file":"Shortbus C2"},				
+            {"name":"EJ07SB","file":"Shortbus EJ07SB"},
+            {"name":"Eru","file":"Shortbus Eru"},	
+            {"name":"Glamdring","file":"Shortbus Glamdring"},			
+            {"name":"Olina","file":"Shortbus Olina"},
+            {"name":"Plan B","file":"Shortbus Plan B"},			
+            {"name":"Prometheus","file":"Shortbus Prometheus"},			
+            {"name":"Unknown Soldier","file":"Shortbus UnknownSoldier"}				
+        ]
+    },		
+    {
+        "name":   "Simgot",
+        "phones": [		
+			{"name":"EA500","file":["Simgot EA500 Red","Simgot EA500 Black","Simgot EA500 Boom","Simgot EA500 Olina","Simgot EA500 Red Bandaid"],"suffix":["RED","Black","Boom","RED Y1","RED Bandaid"]},	
+			{"name":"EW100P","file":"SIMGOT EW100P"},					
+			{"name":"EM2 Roltion","file":"Simgot EM2R"}		
+        ]
+    },	
+    {
+        "name":   "Softears",
+        "phones": [
+            {"name":"CERBERUS","file":"SoftEars CERBERUS"},
+            {"name":"RSV","file":"Softears RSV"},
+            {"name":"RSV TK2","file":"Softears RSV TK2"},			
+			{"name":"Volume","file":["Softears Volume", "Softears Volume ES100_75ohm", "Softears Volume TK2", "Softears Volume Tanya", "Softears Volume Tanya 2 holes"], "suffix":["ES100","ES100_75ohm","TK2", "Tanya", "Tanya Both"]}				
+        ]
+    },		
+    {
+        "name":   "Sony",
+        "phones": [
+            {"name":"MH750","file":"Sony MH750"},		
+            {"name":"MH755","file":"Sony MH755v2"},
+            {"name":"MH755 MMCX","file":"Sony MH755 MMCX"}			
+        ]
+    },	
+    {
+        "name":   "Soundpeats",
+        "phones": [
+		    {"name":"Air 3 Pro TWS","file":"Soundpeats Air 3 Pro"},	
+		    {"name":"Capsule3 Pro TWS","file":"Soundpeats Capsule3 Pro"},				
+            {"name":"Life TWS","file":["Soundpeats Life", "Soundpeats Life EQ"],"suffix":["Soundpeats Classic","Paul EQ"]},
+		    {"name":"Mini Pro HS TWS","file":"Soundpeats Mini Pro HS"},			
+		    {"name":"Opera05 TWS","file":"Soundpeats Opera05"}
+        ]
+    },	
+    {
+        "name":   "Tanchjim",
+        "phones": [
+            {"name":"Tanya","file":["Tanchjim Tanyav2", "Tanchjim Tanya Olina", "Tanchjim Tanya OpenBack", "Tanchjim Tanya OpenBack Olina"], "suffix":["Stock", "Olina","Open Back","Open Back with Olina Filter"]},
+            {"name":"Ola","file":["Tanchjim Ola", "Tanchjim Ola Shortbus"], "suffix":["Stock","Shortbus'd"]},			
+            {"name":"Oxygen Set 1","file":"Tanchjim Oxygen"},
+			{"name":"Oxygen Set 2","file":["Tanchjim Oxygen Set2", "Tanchjim Oxygen MicroporeVent Set2"], "suffix":["Stock","MPonVent"]}		
+        ]
+    },		
+    {
+        "name":   "Tangzu",
+        "phones": [
+            {"name":"ShiminLi","file":["Tangzu ShiminLi", "Tangzu ShiminLi DownUnder", "Tangzu ShiminLi NoDamper"], "suffix":["Stock", "DownUnder", "NoDamper"]},
+            {"name":"Wan'er S.G","file":["Tangzu Waner", "Tangzu Waner FrontVent"], "suffix":["Stock", "FrontVentBlocked"]},
+            {"name":"Zetian Wu Heyday","file":["Tangzu Heyday", "Tangzu Heyday Micropore"], "suffix":["Stock", "Micropore on Front Vent"]}				
+	]
+    },				
+    {
+        "name":   "TFZ",
+        "phones": [
+            {"name":"No 3","file":"TFZ No3"}
+        ]
+    },	
+    {
+        "name":   "THIEAUDIO",
+        "phones": [
+            {"name":"Clairvoyance","file":"Thieaudio Clair"},		
+            {"name":"Legacy 2","file":"Thieaudio L2"}
+        ]
+    },		
+    {
+        "name":   "TinHiFi",
+        "phones": [
+            {"name":"C2","file":"Tinhifi C2"},		
+            {"name":"C3","file":"Tinhifi C3"},	
+            {"name":"C5","file":"Tinhifi C5"},				
+            {"name":"P1Max","file":["Tinhifi P1Max","Tinhifi P1Max Tape"],"suffix":["Stock","Tape Vent"]},
+            {"name":"T1S","file":"Tinhifi T1S"},		
+            {"name":"T2 DLC","file":["Tinhifi T2 DLC","Tinhifi T2 DLC MP"],"suffix":["Stock","MPTape Vent FinalEtip"]},
+            {"name":"T2 Plus","file":"Tinhifi T2plusv2"},			
+            {"name":"T3 Plus","file":"Tinhifi T3 Plus"},
+            {"name":"T4 Plus","file":"Tinhifi T4plus"}				
+        ]
+    },	
+    {
+        "name":   "TKZK",
+        "phones": [
+            {"name":"Ouranos","file":"TKZK Ouranos"},		
+            {"name":"Wave","file":"TKZK Wave"}
+        ]
+    },	
+    {
+        "name":   "Tranya",
+        "phones": [
+            {"name":"T10 Upgraded Version","file":"Tranya T10 Upgraded"}
+        ]
+    },	
+    {
+        "name":   "TRI",
+        "phones": [
+            {"name":"iOne","file":["TRI iOne", "TRI iOne MP"],"suffix":["Stock","Micropore on Nozzle"]},			
+            {"name":"X HBB KAI","file":"TRI KAI"},		
+            {"name":"Meteor","file":"TRI Meteor"}
+        ]
+    },		
+    {
+        "name":   "Tripowin",
+        "phones": [
+            {"name":"X HBB Mele","file":"Tripowin X HBB Mele"},
+			{"name":"X HBB Olina SE","file":"Tripowin Olina SE"},
+			{"name":"X HBB Olina", "file":["Tripowin Olina", "Tripowin Olina Taped", "Tripowin Olina Mesh", "Tripowin Olina TanyaOlina","Tripowin Olina 1Tanya","Tripowin Olina Dual","Tripowin Olina Dual Open","Tripowin Olina 1TanyaMP","Tripowin Olina NoFilter", "Tripowin Olina HighDensity Foam OlinaD"], "suffix":["Stock", "Taped", "Mesh", "One Tanya One Olina","One Tanya", "Dual Damper", "Dual Damper Open Vent","1Tanya MP on Vent","No Filter","HighDensityFoam OlinaDamper"]}					
+        ]
+    },		
+    {
+        "name":   "Tronsmart",
+        "phones": [
+			{"name":"Onyx Prime TWS", "file":["Tronsmart Onyx Prime Default", "Tronsmart Onyx Prime Custom", "Tronsmart Onyx Prime Hifi"], "suffix":["Default", "Custom","Hifi"]},
+			{"name":"Onyx Pure TWS", "file":["Tronsmart Onyx Pure Normal", "Tronsmart Onyx Pure Bass", "Tronsmart Onyx Pure Pure"], "suffix":["Normal", "Bass","Pure"]}			
+        ]
+    },	
+    {
+        "name":   "TRN",
+        "phones": [
+            {"name":"BA5","file":"TRN BA5"},
+            {"name":"BA8","file":"TRN BA8"},
+            {"name":"CS1","file":"TRN CS1"},	
+            {"name":"CS2","file":"TRN CS2"},				
+            {"name":"IM2","file":"TRN IM2"},
+            {"name":"Kirin","file":["TRN Kirin Reference","TRN Kirin Transparent","TRN Kirin Atmosphere"],"suffix":["Reference","Transparent", "Atmosphere"]},			
+            {"name":"MT1","file":"TRN MT1v2"},		
+            {"name":"MT4","file":"TRN MT4"},				
+            {"name":"M10","file":"TRN M10"},				
+            {"name":"ST1","file":"TRN ST1"},		
+            {"name":"ST2","file":"TRN ST2"},
+            {"name":"ST5","file":"TRN ST5"},			
+            {"name":"STM Gold filter","file":"TRN STM Gold"},	
+            {"name":"T300 TWS","file":"TRN T300"},				
+            {"name":"TA1","file":"TRN TA1"},	
+            {"name":"TA2","file":"TRN TA2"},				
+            {"name":"V90","file":"TRN V90"},	
+            {"name":"V90S","file":"TRN V90S"},			
+            {"name":"VX","file":"TRN VX"},
+			{"name":"VX PRO", "file":["TRN VX Pro", "TRN VX PRO Tanya"], "suffix":["Stock", "Tanya"]},
+			{"name":"VX PRO Red", "file":["TRN VX Pro Red", "TRN VX PRO Red Set 2"], "suffix":["Set 1", "Set 2"]},
+            {"name":"Xuanwu","file":"TRN Xuanwu"}	
+        ]
+    },	
+    {
+        "name":   "Truthear",
+        "phones": [	
+            {"name":"Hola","file":"Truthear Hola"}			
+        ]
+    },	
+    {
+        "name":   "Unique Melody",
+        "phones": [	
+            {"name":"MEST","file":"UM MEST"}			
+        ]
+    },	
+    {
+        "name":   "UrbanFun",
+        "phones": [
+            {"name":"Hybrid","file":"Urbanfun Hybrid"},		
+            {"name":"YBFISS014","file":"Urbanfun YBFISS014v2"}			
+        ]
+    },	
+    {
+        "name":   "Velodyne",
+        "phones": [
+            {"name":"Pink","file":"Velodyne Pink"}			
+        ]
+    },	
+    {
+        "name":   "Venture Electronics",
+        "phones": [
+            {"name":"Azure","file":"VE Azure"}			
+        ]
+    },		
+    {
+        "name":   "VJJB",
+        "phones": [
+            {"name":"N30","file":"VJJB N30"}			
+        ]
+    },		
+    {
+        "name":   "Whizzer",
+        "phones": [
+            {"name":"HE01","file":"Whizzer HE01"}			
+        ]
+    },		
+    {
+        "name":   "Yinyoo",
+        "phones": [
+            {"name":"Ash","file":"Yinyoo Ash"},
+            {"name":"Q70 TWS","file":"Yinyoo Q70"},	
+            {"name":"ST7","file":"Yinyoo ST7"},				
+			{"name":"V2","file":"Yinyoo V2"}
+        ]
+    },
+    {
+        "name":   "Zhulinniao",
+        "phones": [
+            {"name":"Jinghong","file":["Zhulinniao Jinghong","Zhulinniao Jinghong MP"],"suffix":["Stock", "MP"]}			
+        ]
+    }		
+]
