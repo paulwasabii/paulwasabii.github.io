@@ -116,6 +116,7 @@
 		{"name":"Duo", "file":"CCA Duo"},		
 		{"name":"Duo v2", "file":["CCA Duo v2","CCA Duo 18ohm v2"],"suffix":["Stock", "18ohm"]},			
 		{"name":"HM20", "file":"CCA HM20"},		
+		{"name":"Hydro", "file":["CCA Hydro 0000","CCA Hydro 1000","CCA Hydro 1100","CCA Hydro 1110","CCA Hydro 1111"],"suffix":["0000", "1000", "1100", "1110", "1111"]},		
 		{"name":"Lyra", "file":["CCA Lyra","CCA Lyra Y2","CCA Lyra Y1"],"suffix":["Stock","3mm Y2 on Mesh","3mm Y1 on Mesh"]},		
 		{"name":"NRA", "file":["CCA NRA Stock", "CCA NRA Taped"], "suffix":["Stock", "Taped"]},
 		{"name":"Pianist", "file":"CCA Pianist"},
@@ -385,7 +386,8 @@
 			{"name":"ZAS","file":"KZ ZAS"},		
 			{"name":"ZES","file":"KZ ZES"},		
 			{"name":"ZNA","file":"KZ ZNA"},				
-			{"name":"ZS10 Pro","file":"KZ ZS10 Prov2"},	
+			{"name":"ZS10 Pro","file":"KZ ZS10 Prov2"},		
+			{"name":"ZS10 Pro 2","file":["KZ ZS10 PRO 2 0000","KZ ZS10 PRO 2 1000","KZ ZS10 PRO 2 1100","KZ ZS10 PRO 2 1110","KZ ZS10 PRO 2 0001","KZ ZS10 PRO 2 1111"],"suffix":["0000", "1000","1100","1110","0001","1111"]},			
 			{"name":"ZS10 Pro X","file":"KZ ZS10 Pro X"},				
 			{"name":"ZSN","file":"KZ ZSNv2"},	
 			{"name":"ZSN Pro","file":"KZ ZSN Prov2"},		
@@ -443,7 +445,8 @@
 			{"name":"Jiu","file":"Moondrop Jiu"},				
 			{"name":"Lan","file":["Moondrop Lan", "Moondrop Lan MP"], "suffix":["Stock","Micropore"]},			
 			{"name":"Stellaris","file":["Moondrop Stellaris","Moondrop Stellaris NoFoam"],"suffix":["Stock","Foam Removed"]},
-			{"name":"Variations","file":"Moondrop Variations"}			
+			{"name":"Variations","file":"Moondrop Variations"},
+			{"name":"x Crinacle Dusk (3.5mm)","file":"MOONDROP x Crinacle DUSK 2 3.5"}			
         ]
     },	
     {
@@ -700,6 +703,7 @@
             {"name":"C5","file":"Tinhifi C5"},	
             {"name":"ELF CO","file":"Tinhifi ELF CO"},					
             {"name":"P1Max","file":["Tinhifi P1Max","Tinhifi P1Max Tape"],"suffix":["Stock","Tape Vent"]},
+            {"name":"P1 MAX 2","file":"TinHifi P1 MAX 2"},				
             {"name":"T1S","file":"Tinhifi T1S"},		
             {"name":"T2 DLC","file":["Tinhifi T2 DLC","Tinhifi T2 DLC MP"],"suffix":["Stock","MPTape Vent FinalEtip"]},
             {"name":"T2 MKII","file":["TINHIFI T2 MKII Stock","TINHIFI T2 MKII Y1","TINHIFI T2 MKII MP"],"suffix":["Stock","Y1 on Vent","MPTape on Vent"]},				
