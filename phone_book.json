@@ -80,6 +80,12 @@
         ]
     },	
     {
+        "name":   "Binary",
+        "phones": [
+		{"name":"Dynaquattro", "file":"Binary Dynaquattro"}
+        ]
+    },	
+    {
         "name":   "BLON",
         "phones": [
 			{"name":"BL01","file":"BLON BL01v2"},	
@@ -170,7 +176,8 @@
 		{"name":"Talos", "file":"DUNU Talos"},
 		{"name":"Titan S", "file":"DUNU Titan"},
 		{"name":"Titan S2", "file":"Dunu Titan S2"},		
-		{"name":"Titan S Tanya", "file":"DUNU Titan Tanya"}		
+		{"name":"Titan S Tanya", "file":"DUNU Titan Tanya"},
+		{"name":"x Gizaudio DaVinci", "file":["DUNU x Gizaudio DaVinci","DUNU x Gizaudio DaVinci 10ohm","DUNU x Gizaudio DaVinci 18ohm"],"suffix":["<1ohm", "10ohm", "18ohm"]}	
         ]
     },	
     {
@@ -191,7 +198,8 @@
         "name":   "EPZ",
         "phones": [
 		{"name":"E200 TWS", "file":"EPZ EW200"},		
-		{"name":"G10", "file":"EPZ G10"},		
+		{"name":"G10", "file":"EPZ G10"},	
+		{"name":"K5", "file":"EPZ K5"},			
 		{"name":"Q1", "file":"EPZ Q1"},
 		{"name":"Q1 Pro", "file":"EPZ Q1 Pro"},		
 		{"name":"Q5", "file":"EPZ Q5"},
@@ -221,6 +229,12 @@
         "name":   "Final Audio",
         "phones": [
 		{"name":"Final E500", "file":["Final E500", "Final E500 AutoEQ"], "suffix":["Stock", "AutoEQ"]}
+        ]
+    },	
+    {
+        "name":   "FiiO",
+        "phones": [
+		{"name":"FD15", "file":["FIIO FD15 Black","FIIO FD15 Red"],"suffix":["Black", "Red"]}
         ]
     },	
     {
@@ -266,7 +280,8 @@
     {
         "name":   "HZSOUND",
         "phones": [
-		{"name":"HeartMirror Pro", "file":"HZSOUND HMPro"},		
+		{"name":"HeartMirror Pro", "file":"HZSOUND HMPro"},	
+		{"name":"Luna", "file":"HZSOUND Luna"},			
 		{"name":"Waist Drum", "file":"HZSOUND Waist Drum"}
         ]
     },	
@@ -346,8 +361,10 @@
 			{"name":"BD005 Pro","file":"Kinera BD005Pro"},
 			{"name":"Celest Gumiho","file":["Kinera Celest Gumiho","Kinera Celest Gumiho 36ohm"], "suffix":["Stock", "36ohm imp"]},	
 			{"name":"Celest Pandamon 2.0","file":"Kinera Celest Pandamon 2.0"},				
-			{"name":"Celest Phoenixcall Ignore","file":"Kinera Celest Phoenixcall"},	
-			{"name":"Celest Wyvern Abyss","file":"Celest Wyvern Abyss"},				
+			{"name":"Celest Phoenixcall","file":"Kinera Celest Phoenixcall"},	
+			{"name":"X Elise Audio Dark Phoenix","file":"ELISE AUDIO x Kinera Dark Phoenix"},				
+			{"name":"Celest Wyvern Abyss","file":"Celest Wyvern Abyss"},	
+			{"name":"Celest Wyvern Qing","file":"Kinera Celest Wyvern Qing"},			
 			{"name":"Celest Wyvern Pro","file":"Kinera Celest Wyvern Pro"},			
 			{"name":"Nanna 2.0","file":"Kinera Nanna 2"}			
         ]
@@ -356,8 +373,10 @@
         "name":   "Kiwi Ears",
         "phones": [					
 			{"name":"Cadenza","file":"Kiwiears Cadenza"},
+			{"name":"Canta","file":"Kiwi Ears Canta"},			
 			{"name":"Dolce","file":"Kiwi Ears Dolce"},		
-			{"name":"Forteza","file":"Kiwi Ears Forteza"},				
+			{"name":"Forteza","file":"Kiwi Ears Forteza"},	
+			{"name":"KE4","file":"Kiwi Ears KE4"},				
 			{"name":"Melody","file":"Kiwi Ears Melody"},				
 			{"name":"Orchestra Lite","file":"Kiwi Ears Orchestra Lite"},
 			{"name":"Quintet","file":"Kiwi Ears Quintet"},
@@ -370,9 +389,11 @@
 			{"name":"ASF","file":"KZ ASFv2"},
 			{"name":"AS10 Pro Foam Tips Ignore This Probably Wrong","file":"KZ AS10 PRO"},			
 			{"name":"AS16 Pro","file":["KZ AS16 Pro","KZ AS16 Pro TK2","KZ AS16 Pro BTX"], "suffix":["Stock","TK2","BTX"]},
-			{"name":"AS24","file":["KZ AS24 DEFAULT","KZ AS24 BASS","KZ AS24 MED","KZ AS24 UPPER"], "suffix":["Default","BASS","Medium","Upper"]},						
+			{"name":"AS24","file":["KZ AS24 DEFAULT","KZ AS24 BASS","KZ AS24 MED","KZ AS24 UPPER"], "suffix":["Default","BASS","Medium","Upper"]},	
+			{"name":"AS24 Pro 35ohm","file":["KZ AS24 Pro 0000","KZ AS24 Pro 1000","KZ AS24 Pro 1100","KZ AS24 Pro 1110","KZ AS24 Pro 1111","KZ AS24 Pro 05ohm 1100"], "suffix":["0000","1000","1100","1110","1111","1100 0.5ohm"]},			
 			{"name":"AST","file":["KZ AST Stock", "KZ AST Tanya","KZ AST 25ohm"], "suffix":["Stock","Tanya","25ohm"]},	
 			{"name":"ASX","file":["KZ ASXv2","KZ ASX 25ohm"],"suffix":["Stock","25ohm"]},
+			{"name":"Carol TWS","file":"KZ Carol"},			
 			{"name":"Castor","file":["KZ Castro 0000","KZ Castro 1000","KZ Castro 1100","KZ Castro 1110","KZ Castro 1111","KZ Castro 0011"],"suffix":["DDDD","UDDD","UUDD","UUUD","UUUU","DDUU"]},
 			{"name":"D-FI","file":["KZ D-Fi","KZ D-Fi DDDU","KZ D-Fi MP","KZ D-Fi UUUD DP"],"suffix":["UUUD","KZ D-Fi DDDU","UUUD+MP","UUUD+DP"]},				
 			{"name":"DQ6","file":"KZ DQ6v2"},	
@@ -400,6 +421,7 @@
 			{"name":"S1 TWS","file":"KZ S1"},				
 			{"name":"S1D TWS","file":"KZ S1D"},	
 			{"name":"SA08 TWS","file":"KZ SA08"},	
+			{"name":"Saga Bass Version","file":"KZ Saga Bass"},				
 			{"name":"SK10 TWS","file":"KZ SK10"},		
 			{"name":"Symphony","file":["KZ Symphony", "KZ Symphony 18ohm"], "suffix":["Stock","36ohm Impedance"]},	
 			{"name":"Vader High Resolution","file":["KZ Vader 0000", "KZ Vader 1000", "KZ Vader 1100", "KZ Vader 0010","KZ Vader 0011","KZ Vader 1111"], "suffix":["0000","1000","1100","0010","0011","1111"]},			
@@ -418,8 +440,9 @@
 			{"name":"ZES","file":"KZ ZES"},		
 			{"name":"ZNA","file":"KZ ZNA"},				
 			{"name":"ZS10 Pro","file":"KZ ZS10 Prov2"},		
-			{"name":"ZS10 Pro 2","file":["KZ ZS10 PRO 2 0000","KZ ZS10 PRO 2 1000","KZ ZS10 PRO 2 1100","KZ ZS10 PRO 2 1110","KZ ZS10 PRO 2 0001","KZ ZS10 PRO 2 1111"],"suffix":["0000", "1000","1100","1110","0001","1111"]},			
-			{"name":"ZS10 Pro X","file":"KZ ZS10 Pro X"},				
+			{"name":"ZS10 Pro 2","file":["KZ ZS10 PRO 2 0000","KZ ZS10 PRO 2 1000","KZ ZS10 PRO 2 1100","KZ ZS10 PRO 2 1110","KZ ZS10 PRO 2 0001","KZ ZS10 PRO 2 1111"],"suffix":["0000", "1000","1100","1110","0001","1111"]},					
+			{"name":"ZS10 Pro X","file":"KZ ZS10 Pro X"},			
+			{"name":"ZS12 Pro X","file":["KZ ZS12 Pro X 0000","KZ ZS12 Pro X 1000","KZ ZS12 Pro X 1100","KZ ZS12 Pro X 1110","KZ ZS12 Pro X 1111"],"suffix":["0000", "1000","1100","1110","1111"]},			
 			{"name":"ZSN","file":"KZ ZSNv2"},	
 			{"name":"ZSN Pro","file":"KZ ZSN Prov2"},		
 			{"name":"ZSN Pro 2","file":"KZ ZSN Pro 2"},				
@@ -441,16 +464,11 @@
 			{"name":"OGK","file":"Shuoer OGK"},		
             {"name":"S08","file":["LetShuoer S08","LetShuoer S08 No Foam","LetShuoer S08 Loose Foam"], "suffix":["Stock","Foam Removed","Loose Foam"]},				
             {"name":"S12","file":"Shuoer S12"},	
+            {"name":"S12 2024 Edition","file":"LetShuoer S12 2024"},				
             {"name":"S15","file":"LetShuoer S15"},				
             {"name":"Tape Pro","file":"Shuoer Tape Pro"}				
         ]
-    },	
-    {
-        "name":   "Mangird Xenns",
-        "phones": [
-			{"name":"Top","file":"Mangird Xenns Top"}
-        ]
-    },	
+    },		
     {
         "name":   "MEMT",
         "phones": [
@@ -508,6 +526,7 @@
 			{"name":"NM2","file":"NFAudio NM2"},
 			{"name":"NM2+","file":"NF Audio NM2+"},			
 			{"name":"RA05","file":"NF Audio RA05"},
+			{"name":"RA15","file":["NF Audio RA15 Silver","NF Audio RA15 Gold"],"suffix":["Silver","Gold"]},			
 			{"name":"RG15","file":"NF Audio RG15"}			
         ]
     },		
@@ -583,9 +602,10 @@
         ]
     },	
     {
-        "name":   "Rose Technics",
+        "name":   "Rose Technics Roseselsa",
         "phones": [		
 			{"name":"Ceramics","file":["ROSE TECHNICS Ceramics Rock","ROSE TECHNICS Ceramics Hifi","ROSE TECHNICS Ceramics Pop"],"suffix":["Rock","HIFI","Pop"]},
+            {"name":"Ceramics X HIFI","file":"Roseselsa Ceramics X TWS"},			
             {"name":"QuietSea","file":"Rose Technics QuietSea"},
             {"name":"Star City 5 Pro","file":"Rose Technics Star City 5 Pro"}				
         ]
@@ -649,7 +669,10 @@
 			{"name":"EM10","file":["Simgot EM10","Simgot EM10 18ohm"],"suffix":["Stock","18ohm adapter"]},	
 			{"name":"EM6L","file":"Simgot EM6L"},				
 			{"name":"EW100P","file":"SIMGOT EW100P"},
-			{"name":"EW200","file":"Simgot EW200"},				
+			{"name":"EW200","file":"Simgot EW200"},			
+			{"name":"EW300","file":["Simgot EW300 Silver","Simgot EW300 Gold","Simgot EW300 Silver 1Foam"],"suffix":["Silver","Gold","Silver+1Foam"]},	
+			{"name":"EW300 HBB","file":["Simgot EW300 HBB Silver","Simgot EW300 HBB Gold"],"suffix":["Silver","Gold"]},	
+			{"name":"EW300 DSP","file":["Simgot EW300 Silver USB 1Foam","Simgot EW300 Silver DSP 1Foam"],"suffix":["Silver 1Foam Analog Cable","Silver 1Foam DSP Cable"]},			
 			{"name":"EM2 Roltion","file":"Simgot EM2R"},	
 			{"name":"Supermix 4","file":"Simgot Supermix 4"}				
         ]
@@ -657,7 +680,8 @@
     {
         "name":   "SIVGA",
         "phones": [		
-			{"name":"Nightingale","file":"SIVGA Nightingale"}		
+			{"name":"Nightingale","file":"SIVGA Nightingale"},
+			{"name":"Que","file":"SIVGA QUE"}				
         ]
     },	
     {
@@ -679,15 +703,28 @@
         ]
     },	
     {
+        "name":   "Soratune",
+        "phones": [		
+			{"name":"YI01","file":"Soratune YI01"}				
+        ]
+    },	
+    {
         "name":   "Soundpeats",
         "phones": [
 		    {"name":"Air 3 Pro TWS","file":"Soundpeats Air 3 Pro"},	
 		    {"name":"Air 4 Pro TWS","file":"Soundpeats Air 4 Pro"},				
 		    {"name":"Capsule3 Pro TWS","file":"Soundpeats Capsule3 Pro"},	
+		    {"name":"Capsule3 Pro Plus TWS","file":"Soundpeats Capsule3 Pro Plus"},			
 		    {"name":"Engine 4 TWS","file":["Soundpeats Engine 4","Soundpeats Engine 4 EQ"],"suffix":["ClassicEQ","EQ"]},				
             {"name":"Life TWS","file":["Soundpeats Life", "Soundpeats Life EQ"],"suffix":["Soundpeats Classic","Paul EQ"]},
 		    {"name":"Mini Pro HS TWS","file":"Soundpeats Mini Pro HS"},			
 		    {"name":"Opera05 TWS","file":"Soundpeats Opera05"}
+        ]
+    },	
+    {
+        "name":   "Tagry",
+        "phones": [		
+			{"name":"X08 TWS","file":"Tagry X08"}				
         ]
     },	
     {
@@ -836,6 +873,7 @@
             {"name":"V90S","file":"TRN V90S"},			
             {"name":"VX","file":"TRN VX"},
 			{"name":"VX PRO", "file":["TRN VX Pro", "TRN VX PRO Tanya"], "suffix":["Stock", "Tanya"]},
+            {"name":"VX PRO+","file":"TRN VX PRO Plus"},			
 			{"name":"VX PRO Red", "file":["TRN VX Pro Red", "TRN VX PRO Red Set 2"], "suffix":["Set 1", "Set 2"]},
             {"name":"Xuanwu","file":"TRN Xuanwu"}	
         ]
@@ -898,6 +936,13 @@
         ]
     },		
     {
+        "name":   "XENNS Mangird",
+        "phones": [
+			{"name":"Tea Pro","file":"XENNS Mangird Tea Pro"},		
+			{"name":"Top","file":"Mangird Xenns Top"}
+        ]
+    },	
+    {
         "name":   "XSL",
         "phones": [
             {"name":"X-One","file":"XSL X-One"}			
@@ -924,7 +969,8 @@
         "name":   "Ziigaat",
         "phones": [
             {"name":"Cinno","file":["Ziigaat Cinno","Ziigaat Cinno 10ohm"],"suffix":["ES100", "ES100+10ohm"]},			
-            {"name":"Nuo","file":"Ziigaat Nuo"}			
+            {"name":"Nuo","file":"Ziigaat Nuo"},
+            {"name":"x Jay Estrella","file":["Ziigaat x Jay Estrella","Ziigaat x Jay Estrella Tape","Ziigaat x Jay Estrella MP"],"suffix":["Stock", "TapeMod","Micropore"]}	
         ]
     }		
 ]
