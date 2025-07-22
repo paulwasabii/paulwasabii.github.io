@@ -5,12 +5,12 @@ const CONFIG = {
   // Phone & Targets to display on initial load.
   // Note that this will be overridden by URL if it's present.
   INITIAL_PHONES: ["Demo Variations var2"],
-  INITIAL_TARGETS: ["KEMAR DF (KB006x)"],
+  INITIAL_TARGETS: ["Harman IE 2017v2"],
   INITIAL_PANEL: "graph",                               // (phone, graph, misc)
   // Default Normalization Type and Value.
   NORMALIZATION: {
     TYPE: "Hz",                                         // ("Hz" or "Avg" - 300~3000Hz Midrange Average Normalization)
-    HZ_VALUE: 500,                                      // This will be ignored if NORMALIZATION.TYPE is "Avg"
+    HZ_VALUE: 700,                                      // This will be ignored if NORMALIZATION.TYPE is "Avg"
   },
   // Default Visualization Settings.
   VISUALIZATION: {
@@ -72,7 +72,7 @@ const CONFIG = {
     // You can even put multiple TEXT or IMAGE in Array. Randomly picked content will be rendered on every load.
     { TYPE: "IMAGE", SIZE: "50px", LOCATION: "TOP_RIGHT", POSITION: {UP: "0", DOWN: "15", LEFT: "46", RIGHT: "0"}, OPACITY: "0.2",
       CONTENT: [
-        "./assets/images/icon_1.png", "./assets/images/icon_2.png", "./assets/images/icon_3.png",
+        "./assets/images/pw.svg",
       ] 
     }
   ],
