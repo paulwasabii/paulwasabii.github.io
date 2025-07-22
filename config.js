@@ -5,7 +5,7 @@ const CONFIG = {
   // Phone & Targets to display on initial load.
   // Note that this will be overridden by URL if it's present.
   INITIAL_PHONES: ["Demo Variations var2"],
-  INITIAL_TARGETS: ["Harman IE 2017v2"],
+  INITIAL_TARGETS: ["Harman IE 2019v2"],
   INITIAL_PANEL: "graph",                               // (phone, graph, misc)
   // Default Normalization Type and Value.
   NORMALIZATION: {
@@ -83,8 +83,8 @@ const CONFIG = {
     default: [
       { type:"Harman",      files:["Harman IE 2019v2","Harman IE 2017v2"] },
       { type:"Neutral",     files:["KEMAR DF (KB006x)","ISO 11904-2 DF","IEF Neutral 2023"] },
-      { type:"Reviewer",    files:["Banbeucmas","HBB","Precogvision","Super 22 Adjusted"] },
-      { type:"Preference",  files:["AutoEQ","Rtings","Sonarworks"] },
+      { type:"Reviewer",    files:["PaulWasabii","Oratory1990","Super 22 Adjusted"] },
+      { type:"Preference",  files:["!AutoEQ","!Rtings","Sonarworks"] },
       { type:"Δ",           files:["Universal ∆"] }
     ],
     // And add more languages as you want.
