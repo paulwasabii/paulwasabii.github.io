@@ -121,8 +121,8 @@ const CONFIG = {
     // You MUST add 'http(s)://' to the URL Website PATH.
     LINK_LIST: {
       default: [
-        { TITLE: "Github", URL: "https://www.github.com" },
-        { TITLE: "Docs", URL: "https://potatosalad775.github.io/modernGraphTool/docs" }, 
+        { TITLE: "Youtube", URL: "https://www.youtube.com/@paulwasabii" },
+        { TITLE: "Squig", URL: "https://pw.squig.link/" }, 
       ],
       i18n: {
         ko: [
