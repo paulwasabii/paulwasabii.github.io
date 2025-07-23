@@ -1089,6 +1089,7 @@
     {
         "name":   "Unique Melody",
         "phones": [	
+            {"name":"Indigo","file":"Unique Melody Indigo"},			
             {"name":"MEST","file":"UM MEST"},	
             {"name":"MEXT","file":"Unique Melody Mext"}			
         ]
@@ -1127,6 +1128,7 @@
     {
         "name":   "XENNS Mangird",
         "phones": [
+			{"name":"Tea","file":"Mangird Tea"},			
 			{"name":"Tea Pro","file":"XENNS Mangird Tea Pro"},		
 			{"name":"Top","file":"Mangird Xenns Top"}
         ]
